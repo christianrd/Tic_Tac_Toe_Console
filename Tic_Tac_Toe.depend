@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453426987 source:/home/christiandevcode/Desktop/Practicas Estructura de Datos/Practica #1/Tic_Tac_Toe/tictac.cpp
+
+1453472579 source:/home/christiandevcode/Desktop/Practicas Estructura de Datos/Practica #1/Tic_Tac_Toe/main.cpp
+	<iostream>
+	<stdlib.h>
+
